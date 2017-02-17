@@ -1,0 +1,25 @@
+{
+  "name": "AuthJWT",
+  "description": "",
+  "main": "karma.conf.js",
+  "authors": [
+    "Tetyana"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "^1.12.1",
+    "angular-mocks": "^1.6.1",
+    "ngstorage": "^0.3.11",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.4.2"
+  }
+}
